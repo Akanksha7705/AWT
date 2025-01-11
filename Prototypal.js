@@ -11,3 +11,6 @@ function University(name) {
   clg.prints();
    
   console.log(clg.__proto__ === University.prototype);
+   
+
+   
